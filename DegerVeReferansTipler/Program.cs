@@ -26,7 +26,11 @@ namespace DegerVeReferansTipler
          //   Console.WriteLine(sayilar1[]);
          //   Console.WriteLine(sayilar2[]);
             
+
+
             Console.WriteLine(sayilar1[0]);
+
+
         }
     }
 }
