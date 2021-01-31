@@ -8,7 +8,7 @@ namespace ClassMetotDemo
     {
         public void Ekle(Musteri musteri)
         {
-            Console.WriteLine("Yeni Müsteri eklenmistir");
+            Console.WriteLine(" Yeni Müsteri eklenmistir");
 
         }
         public void Liste(int Id, string Name, string Soyadi, double Bakiye, bool Kredikart)
