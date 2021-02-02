@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GenericsIntro
+namespace MyDictionary
 {
     class Program
     {
@@ -9,7 +9,8 @@ namespace GenericsIntro
             MyList<string> isimler = new MyList<string>();
             isimler.Add("Engin");
 
-
+            Console.WriteLine(isimler);
+            isimler.Add("Kerem");
 
         }
     }

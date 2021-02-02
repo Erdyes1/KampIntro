@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GenericsIntro
+namespace MyDictionary
 {
     class MyList<T>
     {
@@ -23,5 +23,7 @@ namespace GenericsIntro
             }
             items[items.Length - 1] = item;
         }
+
+
     }
 }

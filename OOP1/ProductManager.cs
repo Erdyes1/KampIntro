@@ -14,7 +14,7 @@ namespace OOP1
         {
             Console.WriteLine(product.ProductName + "  Güncellendi. ");
         }
-        public void remove(Product product)
+        public void Remove(Product product)
         {
             Console.WriteLine(product.ProductName + "  SILINDI" ) ;
         }
